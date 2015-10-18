@@ -1,4 +1,4 @@
-# nextday
+# nextday [![Build Status](https://travis-ci.org/cullylarson/nextday.svg?branch=master)](https://travis-ci.org/cullylarson/nextday)
 
 > Gets the next day of a date.
 
