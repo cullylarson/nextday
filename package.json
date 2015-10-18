@@ -1,0 +1,29 @@
+{
+  "name": "nextday",
+  "version": "1.0.0",
+  "description": "Gets the next day of a date.",
+  "license": "MIT",
+  "repository": "cullylarson/nextday",
+  "author": {
+    "name": "Cully Larson",
+    "email": "cully.larson@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "date",
+    "next",
+    "day",
+    "nextday"
+  ],
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
