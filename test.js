@@ -49,7 +49,7 @@ describe('Next Day', function() {
     describe('Using a float', function () {
         it('Should throw an exception', function () {
             var currentFloat = "1.1"
-            assert.throws(nextday(currentFloat, Error))
+            assert.throws(nextday(currentFloat), Error)
         })
     })
 
